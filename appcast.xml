@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>AVIZ PRO</title>
+    <link>https://aviz.studio/pro/mac/appcast.xml</link>
+    <description>AVIZ PRO for Mac — updates for the version downloaded from aviz.studio.</description>
+    <language>en</language>
+    <item>
+          <title>AVIZ PRO 1.0.0</title>
+          <pubDate>Sun, 15 Nov 2026 18:06:28 +0000</pubDate>
+          <sparkle:version>1</sparkle:version>
+          <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+          <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+          <description><![CDATA[<ul><li>The first release of AVIZ PRO for Mac.</li></ul>]]></description>
+          <enclosure url="https://github.com/volodymyrslipak/aviz-pro-releases/releases/download/pro-v1.0.0/AVIZ-PRO-1.0.0.dmg" sparkle:edSignature="KsiI7uOQAspGgu5tC83KTXV+lQy26SEI8lMqBTJDmlcKQGmrgsUsHilDKFJcL6dMjCMVMm21XoNnmWleURQdCA==" length="21169506" type="application/octet-stream"/>
+        </item>
+  </channel>
+</rss>
