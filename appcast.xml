@@ -6,6 +6,20 @@
     <description>AVIZ PRO for Mac — updates for the version downloaded from aviz.studio.</description>
     <language>en</language>
     <item>
+      <title>AVIZ PRO 1.0.1</title>
+      <pubDate>Sun, 15 Nov 2026 22:17:34 +0000</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h2>AVIZ PRO 1.0.1</h2>
+<ul>
+<li>Fixed a crash when opening a scene with text effects (for example Phonk punch) while the node map was being laid out.</li>
+<li>Road: the sun is no longer doubled in the wet asphalt reflection.</li>
+<li>The project title no longer shows the .avizproj extension; the shader editor shows code right away.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/volodymyrslipak/aviz-pro-releases/releases/download/pro-v1.0.1/AVIZ-PRO-1.0.1.dmg" sparkle:edSignature="smRk2hFSIQe62Izgy9hBYBcfJpColuS9F4uAYtkAOSqExJkCvS3lwZ6lXddSGOXxsd83v0zTEumMa1E+3GTeDQ==" length="21174602" type="application/octet-stream"/>
+    </item>
+    <item>
           <title>AVIZ PRO 1.0.0</title>
           <pubDate>Sun, 15 Nov 2026 18:06:28 +0000</pubDate>
           <sparkle:version>1</sparkle:version>
