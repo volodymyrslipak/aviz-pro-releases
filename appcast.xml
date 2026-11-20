@@ -6,6 +6,23 @@
     <description>AVIZ PRO for Mac — updates for the version downloaded from aviz.studio.</description>
     <language>en</language>
     <item>
+      <title>AVIZ PRO 1.0.3</title>
+      <pubDate>Fri, 20 Nov 2026 00:40:00 +0000</pubDate>
+      <sparkle:version>13</sparkle:version>
+      <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h2>AVIZ PRO 1.0.3</h2>
+<ul>
+<li>12 interface languages: English, Ukrainian, Spanish, Portuguese (Brazil), French, German, Italian, Polish, Turkish, Japanese, Korean and Simplified Chinese. AVIZ PRO follows your macOS language.</li>
+<li>Master output layers in the inspector, a "What to control?" menu when you drop a wire, and Audio binds that work as in Lite.</li>
+<li>Detailed audio view: waveform, spectrogram, dB bands, kick and sections, with a timeline ruler, snap, scrub and an A–B loop.</li>
+<li>Transport with stop, sections, loop and speed. The preview can shrink into a corner, and Esc leaves full screen.</li>
+<li>13 interface themes, an adaptive layout with "Reset layout", and your own project tabs.</li>
+<li>Scrolling no longer turns knobs by accident, and ⌘Z / ⇧⌘Z undo and redo one gesture at a time.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/volodymyrslipak/aviz-pro-releases/releases/download/pro-v1.0.3/AVIZ-PRO-1.0.3.dmg" sparkle:edSignature="MxFmhLakMDx9llpZnBO5cMXQvEiIKUBAUcSoFMQT/Uq2md3ZF57jF3+PSzph0VvTyhG1FmGtg2kPHnEqwVduAg==" length="24548480" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>AVIZ PRO 1.0.1</title>
       <pubDate>Sun, 15 Nov 2026 22:17:34 +0000</pubDate>
       <sparkle:version>2</sparkle:version>
