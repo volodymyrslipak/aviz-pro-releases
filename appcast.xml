@@ -6,6 +6,23 @@
     <description>AVIZ PRO for Mac — updates for the version downloaded from aviz.studio.</description>
     <language>en</language>
     <item>
+      <title>AVIZ PRO 1.0.4</title>
+      <pubDate>Fri, 20 Nov 2026 18:47:40 +0000</pubDate>
+      <sparkle:version>21</sparkle:version>
+      <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h2>AVIZ PRO 1.0.4</h2>
+<ul>
+<li>Ableton Link: AVIZ PRO keeps tempo, beat and phase with Ableton Live and other Link apps on your network. Turn it on with the Ableton Link button in the tempo zone, in the Playback menu or in the new Ableton Link tab in Settings.</li>
+<li>Ableton Link settings: a map of the devices in the session — other Macs with AVIZ PRO by name and model, apps that share audio through Link Audio by name — with Reload and Find New Devices for a device that isn't visible.</li>
+<li>Start Stop Sync: when it is on, Play and Stop in AVIZ PRO start and stop the Link session.</li>
+<li>A new tempo zone under the timeline: big BPM, the Ableton Link button and a large Tap pad. In the expanded audio lane a VU meter kicks on every beat.</li>
+<li>Loops and Repeat One play seamlessly, playback continues when you switch the audio output, and the position bar under the transport can be clicked and dragged.</li>
+<li>The window stays smooth with Link on: the meters and the tempo zone no longer redraw the whole window.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/volodymyrslipak/aviz-pro-releases/releases/download/pro-v1.0.4/AVIZ-PRO-1.0.4.dmg" sparkle:edSignature="DveLApB0kCWXCQzfVDOOpR15Hh0roDijNTv88+uPyXPIemUlUerth+XHupQ1+FSmFm197EqE8bAdlhvZeiaRCw==" length="24785856" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>AVIZ PRO 1.0.3</title>
       <pubDate>Fri, 20 Nov 2026 00:40:00 +0000</pubDate>
       <sparkle:version>13</sparkle:version>
