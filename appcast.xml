@@ -6,6 +6,21 @@
     <description>AVIZ PRO for Mac — updates for the version downloaded from aviz.studio.</description>
     <language>en</language>
     <item>
+          <title>AVIZ PRO 1.0.6</title>
+          <pubDate>Mon, 23 Nov 2026 19:27:37 +0000</pubDate>
+          <sparkle:version>23</sparkle:version>
+          <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
+          <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+          <description><![CDATA[<h2>AVIZ PRO 1.0.6</h2>
+    <ul>
+    <li>New effects: Lens (refraction, soft edges and camera settings), Pixel stretch, Scan box, Fiber cell and Glass capsule, with ready-made presets and templates.</li>
+    <li>Licence activation: a licence works on up to two Macs. Deactivate a Mac in the licence window to move it to another one; without a network the app keeps working for 30 days.</li>
+    <li>Local AI agents (MCP) are now off until you turn them on, and an agent’s permission lasts until you quit AVIZ PRO.</li>
+    <li>Security: agent previews no longer show camera, NDI or Syphon frames; shaders from other people’s projects are size-limited and can’t include files from your disk.</li>
+    </ul>]]></description>
+          <enclosure url="https://github.com/volodymyrslipak/aviz-pro-releases/releases/download/pro-v1.0.6/AVIZ-PRO-1.0.6.dmg" sparkle:edSignature="bJybEIyV85D8QpmmDarWJZkbaOWsc11nP35ep7dKeasHwMAhS1/DA6oqwgPSjExUdtwmFZt/419hmZSFItbNBQ==" length="25192723" type="application/octet-stream"/>
+        </item>
+    <item>
       <title>AVIZ PRO 1.0.5</title>
       <pubDate>Mon, 23 Nov 2026 00:56:19 +0000</pubDate>
       <sparkle:version>22</sparkle:version>
