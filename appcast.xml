@@ -6,6 +6,20 @@
     <description>AVIZ PRO for Mac — updates for the version downloaded from aviz.studio.</description>
     <language>en</language>
     <item>
+      <title>AVIZ PRO 1.0.5</title>
+      <pubDate>Mon, 23 Nov 2026 00:56:19 +0000</pubDate>
+      <sparkle:version>22</sparkle:version>
+      <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h2>AVIZ PRO 1.0.5</h2>
+<ul>
+<li>Palettes in the inspector are shown as colour swatches instead of hex codes.</li>
+<li>Tracks that macOS can't open directly (extra data before the audio, AAC saved as .mp3) now play; a truly damaged file shows a clear message.</li>
+<li>Node cards on the map are always opaque, and the selected card stays on top.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/volodymyrslipak/aviz-pro-releases/releases/download/pro-v1.0.5/AVIZ-PRO-1.0.5.dmg" sparkle:edSignature="lu3bqDWB3YBG+z4N/Rd1j3ttM0yEs9UlSV1AvVk4f/oMJZ2blS7kl/Sj7pVszchVvdQSAbm/8rBZjgJjbZ2nAw==" length="24844043" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>AVIZ PRO 1.0.4</title>
       <pubDate>Fri, 20 Nov 2026 18:47:40 +0000</pubDate>
       <sparkle:version>21</sparkle:version>
